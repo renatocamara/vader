@@ -1,0 +1,19 @@
+{
+  "name": "vander",
+  "version": "1.0.0",
+  "description": "suggestion from Greg",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatocamara/vader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatocamara/vader/issues"
+  },
+  "homepage": "https://github.com/renatocamara/vader#readme"
+}
