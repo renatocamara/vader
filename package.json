@@ -1,5 +1,5 @@
 {
-  "name": "vander",
+  "name": "@renatocamara/vander",
   "version": "1.0.0",
   "description": "suggestion from Greg",
   "main": "index.js",
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/renatocamara/vader.git"
   },
-  "author": "",
+  "author": "Renato",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/renatocamara/vader/issues"
-  },
+  },  
+  "homepage": "https://github.com/renatocamara/vader#readme",
   "publishConfig": {
-    "renatocamara:registry": "https://npm.pkg.github.com"
-  },
-  "homepage": "https://github.com/renatocamara/vader#readme"
+    "@renatocamara:registry": "https://npm.pkg.github.com"
+  }
 }
