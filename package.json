@@ -1,7 +1,7 @@
 {
   "name": "@renatocamara/vader",
-  "version": "1.0.0",
-  "description": "suggestion from Greg",
+  "version": "1.0.1",
+  "description": "darth vader project",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
